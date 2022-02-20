@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-20T16:57:15.987Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="SXJdHKVG77lVPwleukAK" version="16.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-20T16:59:28.997Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="PzYK086zCd5exFK1UWQD" version="16.0.3" type="github">
   <diagram id="rdF5DC8ADCqOEM-56Y4E" name="第 1 页">
     <mxGraphModel dx="1577" dy="1075" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -71,7 +71,7 @@
         <mxCell id="FymUpO2ddn1shdIVuSi2-20" value="系统动作状态机" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="810" y="340" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FymUpO2ddn1shdIVuSi2-21" value="对话规则状态机" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=19;" vertex="1" parent="1">
+        <mxCell id="FymUpO2ddn1shdIVuSi2-21" value="对话场景状态机" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="430" y="400" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FymUpO2ddn1shdIVuSi2-29" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=19;" edge="1" parent="1" source="FymUpO2ddn1shdIVuSi2-25" target="FymUpO2ddn1shdIVuSi2-27">
@@ -131,14 +131,14 @@
         <mxCell id="FymUpO2ddn1shdIVuSi2-48" value="多轮对话管理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="400" y="230" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FymUpO2ddn1shdIVuSi2-49" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="400" y="300" width="750" height="710" as="geometry" />
-        </mxCell>
         <mxCell id="FymUpO2ddn1shdIVuSi2-51" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="70" y="300" width="200" height="710" as="geometry" />
         </mxCell>
         <mxCell id="FymUpO2ddn1shdIVuSi2-52" value="&lt;font color=&quot;#ff3333&quot;&gt;规则为主&lt;br&gt;模型辅助&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=19;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="420" y="60" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="FymUpO2ddn1shdIVuSi2-53" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="400" y="300" width="750" height="710" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
