@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-24T08:34:30.777Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="d5l-fs2C_Ids9-H_x5wH" version="16.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-24T08:38:12.654Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="9jUeQqZ3-stqaS1GCMdg" version="16.0.3" type="github">
   <diagram id="rdF5DC8ADCqOEM-56Y4E" name="第 1 页">
-    <mxGraphModel dx="2929" dy="1433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2547" dy="1173" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -63,12 +63,6 @@
         </mxCell>
         <mxCell id="FymUpO2ddn1shdIVuSi2-56" value="自然语言理解" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;fontColor=#000000;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="160" y="320" width="150" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="FymUpO2ddn1shdIVuSi2-57" value="对话状态追踪" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;fontColor=#000000;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="400" y="630" width="150" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="FymUpO2ddn1shdIVuSi2-58" value="对话策略" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;fontColor=#000000;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="400" y="730" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FymUpO2ddn1shdIVuSi2-60" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span&gt;机器人回复&lt;/span&gt;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=19;fontColor=#FF3333;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="840" y="320" width="150" height="60" as="geometry" />
@@ -178,8 +172,8 @@
         <mxCell id="FymUpO2ddn1shdIVuSi2-119" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;fontColor=#000000;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="480" y="940" width="210" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="FymUpO2ddn1shdIVuSi2-120" value="FAQ问答" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=19;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="440" y="900" width="160" height="30" as="geometry" />
+        <mxCell id="FymUpO2ddn1shdIVuSi2-120" value="&lt;b&gt;&lt;font color=&quot;#ff3333&quot;&gt;FAQ问答场景&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=19;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="457" y="900" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FymUpO2ddn1shdIVuSi2-122" value="意图识别" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=19;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="10" y="630" width="180" height="100" as="geometry" />
@@ -214,10 +208,10 @@
         <mxCell id="FymUpO2ddn1shdIVuSi2-140" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;fontColor=#000000;fillColor=none;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1202.5" y="1030" width="317.5" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="FymUpO2ddn1shdIVuSi2-141" value="多轮对话" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="720" y="570" width="102.5" height="30" as="geometry" />
+        <mxCell id="FymUpO2ddn1shdIVuSi2-141" value="&lt;b&gt;&lt;font color=&quot;#ff3333&quot;&gt;多轮对话场景&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="720" y="570" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FymUpO2ddn1shdIVuSi2-157" value="闲聊" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=19;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="FymUpO2ddn1shdIVuSi2-157" value="&lt;font color=&quot;#ff3333&quot;&gt;&lt;b&gt;闲聊场景&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=19;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="207" y="900" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FymUpO2ddn1shdIVuSi2-158" value="语料" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=19;fontColor=#000000;fillColor=none;" vertex="1" parent="1">
@@ -240,9 +234,6 @@
         </mxCell>
         <mxCell id="FymUpO2ddn1shdIVuSi2-165" value="会话管理引擎" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="123" y="250" width="117" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FymUpO2ddn1shdIVuSi2-166" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;fontColor=#000000;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="360" y="610" width="230" height="210" as="geometry" />
         </mxCell>
         <mxCell id="FymUpO2ddn1shdIVuSi2-167" value="语料" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=19;fontColor=#000000;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="290" y="990" width="107" height="60" as="geometry" />
@@ -273,6 +264,15 @@
             <mxPoint x="530" y="832.5" as="sourcePoint" />
             <mxPoint x="559.9999999999998" y="907.5" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="FymUpO2ddn1shdIVuSi2-177" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="360" y="610" width="230" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="FymUpO2ddn1shdIVuSi2-178" value="对话策略" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;fontColor=#000000;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="400" y="730" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FymUpO2ddn1shdIVuSi2-179" value="对话状态追踪" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;fontColor=#000000;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="400" y="639" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
